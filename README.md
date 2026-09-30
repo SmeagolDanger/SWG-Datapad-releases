@@ -15,7 +15,7 @@ Builds are unsigned. Windows may show a SmartScreen prompt on first launch: clic
 
 Projects, resources, custom builds, guards and settings stay on your computer, in the app's profile folder (`%APPDATA%\SWG Datapad` on Windows, `~/Library/Application Support/SWG Datapad` on macOS), and are kept through updates. **My resources** exports and imports SWGAide-style CSV files to move your inventory between computers.
 
-The app downloads Legends schematic and current-resource data from [SWGAide](https://swgaide.com)'s public exports and checks this repository for updates. No account is needed, and nothing about you or your resources is sent anywhere.
+The app downloads Legends schematic and current-resource data from [SWGAide](https://swgaide.com)'s public exports and checks this repository for updates. No account is needed. Nothing about you or your resources is sent anywhere unless you turn on **Settings → Sync**, which keeps your own devices in step through a sync server; it stays off until you turn it on.
 
 This repository holds downloads and release notes. Source development happens in a separate private repository; the automatic Source code archives here contain only this repository's documentation.
 
